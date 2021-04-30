@@ -19,7 +19,7 @@ it your own by following the tips below!
 - RUN <code>npm init</code> , this command can be used to set up a new or existing npm package for your portfolio
 - RUN <code>npm install</code> , this command pulls out all the require node modules
 - Edit <code>public/resumeData.json</code> and add your personal details and projects and such
-- WATCH the video below to get the other few amazing things set up to modify thi portfolio as your own and to deploy it live!
+- WATCH the video below and I'll personally show you how to set up the project, make it sparkle with glory and push it out live for the world to see the amazing developer that you are!
 
 ## Example of How to Set it up Video(Same video as the one in my React-Portfolio Repo)
 
