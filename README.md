@@ -1,70 +1,39 @@
-# Getting Started with Create React App
+# Link to Live Demo Below
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<ul>
+<li><a href="https://djimenezdev.com/">LIVE DEMO</a></li>
+</ul>
 
-## Available Scripts
+## Description
 
-In the project directory, you can run:
+This is a special React JS Portfolio template by <span style="font-weight:bold;color:red">Tim Baker</span>. I just made my own modifications to it but you can make
+it your own by following the tips below!
 
-### `npm start`
+<h2 style="margin:30px 0;">PROCEDURE TO USE THIS TEMPLATE FOR YOURSELF:</h2>
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+<p style="font-size:1.2rem;color:red">Make sure to have NodeJS installed to follow the instructions to keep following the instructions after opening it in VS Code</p>
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+- Download the zip folder from Github and unzip it
+- Open the folder in VS Code
+- Open terminal in VS Code
+- RUN <code>npm init</code> , this command can be used to set up a new or existing npm package for your portfolio
+- RUN <code>npm install</code> , this command pulls out all the require node modules
+- Edit <code>public/resumeData.json</code> and add your personal details and projects and such
+- WATCH the video below to get the other few amazing things set up to modify thi portfolio as your own and to deploy it live!
 
-### `npm test`
+## Example of How to Set it up Video(Same video as the one in my React-Portfolio Repo)
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+<code>Video will be added soon</code>
 
-### `npm run build`
+## Credits
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+#### All Credits Goes to Tim Baker <a href='https://github.com/tbakerx/react-resume-template'>Original Repo</a>
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+HTML Design Template
+<a href="https://www.styleshout.com/free-templates/ceevee/">Ceevee Template by Styleshout</a>
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+Header photo credit
+<a href="https://unsplash.com/@mischievous_penguins?utm_medium=referral&amp;utm_campaign=photographer-credit&amp;utm_content=creditBadge">Casey Horner</a>
 
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Testimonial photo credit
+<a href="https://unsplash.com/@samuelzeller?utm_medium=referral&amp;utm_campaign=photographer-credit&amp;utm_content=creditBadge">Samuel Zeller</a>
