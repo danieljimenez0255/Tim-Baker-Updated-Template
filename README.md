@@ -23,7 +23,9 @@ it your own by following the tips below!
 
 ## Example of How to Set it up Video(Same video as the one in my React-Portfolio Repo)
 
-<code>Video will be added soon</code>
+<h3 style="font-weight:bold">Click The Image below to see the video💯🔥🔥🔥</h3>
+
+<a href="https://www.youtube.com/watch?v=euCUCuCaX-I"><img src="public/images/portfolio_screenshot.png" width="700" height="390" alt="Portfolio Screenshot"></a>
 
 ## Credits
 
